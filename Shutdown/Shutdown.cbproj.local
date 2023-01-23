@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/01/23 15:30:34.060,=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2023/01/23 15:30:34.064,=C:\Users\dev\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2023/01/23 15:34:56.125,C:\Users\dev\Documents\Embarcadero\Studio\Projets\Shutdown\ShutdownPCH1.h=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2023/01/23 15:34:56.146,C:\Users\dev\Documents\Embarcadero\Studio\Projets\Shutdown\File1.cpp=C:\Users\dev\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2023/01/23 15:34:56.160,C:\Users\dev\Documents\Embarcadero\Studio\Projets\Shutdown\Shutdown.cbproj=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Project2.cbproj</Transaction>
+    <Transaction>2023/01/23 15:35:00.678,C:\Users\dev\Documents\Embarcadero\Studio\Projets\Shutdown\Shutdown.cbproj=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Shutdown\Shutdown.cbproj</Transaction>
+    <Transaction>2023/01/23 16:08:11.326,C:\Users\dev\Documents\Embarcadero\Studio\Projets\Shutdown\Shutdown.cbproj=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Shutdown\Shutdown.cbproj</Transaction>
+    <Transaction>2023/01/23 16:08:14.562,C:\Users\dev\Documents\Embarcadero\Studio\Projets\Shutdown\Shutdown.cbproj=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Shutdown\Shutdown.cbproj</Transaction>
+    <Transaction>2023/01/23 16:09:28.820,C:\Users\dev\Documents\Embarcadero\Studio\Projets\Shutdown\Shutdown.cbproj=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Shutdown\Shutdown.cbproj</Transaction>
+    <Transaction>2023/01/23 16:09:30.464,C:\Users\dev\Documents\Embarcadero\Studio\Projets\Shutdown\Shutdown.cbproj=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Shutdown\Shutdown.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
